@@ -1,0 +1,5 @@
+2019-10-20 07:02:17 INFO logger.py:126 Log level: INFO
+2019-10-20 07:02:17 INFO main.py:259 GNS3 GUI version 2.1.16
+2019-10-20 07:02:17 INFO main.py:260 Copyright (c) 2007-2019 GNS3 Technologies Inc.
+2019-10-20 07:02:17 INFO main.py:262 Application started with /usr/bin/gns3
+2019-10-20 07:02:18 WARNING __init__.py:1151 Running GNS3 as root is not recommended and could be dangerous
